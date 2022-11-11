@@ -1,0 +1,32 @@
+.header {
+    background: cornflowerblue;
+    width: 100%;
+    position: fixed;
+}
+
+.toolbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 40px;
+    padding: 0 24px;
+}
+
+.main {
+    height: 100vh;
+    display: block;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.solicitar {
+    width: 100%;
+    height: 50vh;
+    background: gray;
+}
+
+.coleta {
+    background: crimson;
+    width: 100%;
+    height: 50vh;
+}
